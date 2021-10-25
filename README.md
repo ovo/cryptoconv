@@ -9,5 +9,7 @@ Register for the [Coinmarketcap api](https://coinmarketcap.com/api/) and set the
 `$ deno install -n cryptoconv https://raw.githubusercontent.com/ovo/cryptoconv/main/main.ts`
 
 Use the application by running
+
 `$ cryptoconv 1 eth usd`
+
 `> 4139.8060707464265`
